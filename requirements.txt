@@ -1,0 +1,11 @@
+Flask
+numpy
+pandas
+scikit-learn==1.6.1
+scipy
+Flask-Cors
+gunicorn
+requests
+matplotlib
+seaborn
+plotly
